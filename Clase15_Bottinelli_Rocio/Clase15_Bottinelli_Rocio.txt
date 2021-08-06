@@ -1,0 +1,10 @@
+1. Por que un lenguaje de programacion solo puede utilizarse en algunso sistemas operativos y en otros no?
+Porque los lenguajes de programacion utilizan diferente logica y por ello se clasifican en
+distinto nivel, esto hace que requieran diferentes caracteristicas del sistema operativo 
+en el que quieren utilizarse.
+2. Que tipo de maquina virtual es Virtu
+al Box?
+Virtual Box es una maquina virtual de sistema.
+3. Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? Por que?
+No, porque trabajan independientemente.
+4. Subir este archivo a la mochila del viajero desde la maquina virtual 
